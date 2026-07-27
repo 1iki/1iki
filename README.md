@@ -84,6 +84,6 @@ Status      : 🚀 Building, Learning, & Shipping Web Applications
 <div align="center">
 
 ---
-*⚡ Cyber-Terminal Profile generated for [@1iki](https://github.com/1iki)*
+*⚡ Cyber-Terminal Profile  [@1iki](https://github.com/1iki)*
 
 </div>
